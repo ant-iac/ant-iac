@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- 👨🏻‍💻 I’m currently [grinding LeetCode](https://github.com/ant-iac/leetcode-solutions)
 - 🌱 I’m currently [learning Machine Learning](https://github.com/ant-iac/learning-machine-learning)
 
 <!--
